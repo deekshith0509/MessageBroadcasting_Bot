@@ -32,7 +32,7 @@
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/secret-bot.git
+    git clone https://github.com/deekshith0509/MessageBroadcasting_Bot.git
     cd secret-bot
     ```
 
@@ -49,7 +49,7 @@
 
 4. **Set up the database:**
     ```sh
-    python -c "from your_script import setup_database; setup_database()"
+    python -c "from main.py import setup_database; setup_database()"
     ```
 
 5. **Configure the bot token:**
@@ -61,7 +61,7 @@
 
 6. **Run the bot:**
     ```sh
-    python your_script.py
+    python main.py
     ```
 
 ## Usage
