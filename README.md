@@ -49,7 +49,7 @@
 
 4. **Set up the database:**
     ```sh
-    python -c "from main.py import setup_database; setup_database()"
+    python -c "from main import setup_database; setup_database()"
     ```
 
 5. **Configure the bot token:**
